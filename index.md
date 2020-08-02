@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Proofreading UCL
 
-You can use the [editor on GitHub](https://github.com/rodrickcharles2/QMUL-Proofreading/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The University College London (UCL) is one of the leading universities in the United Kingdom. UCL is London's leading multidisciplinary university and is acknowledged as one of the top universities in the whole world. In fact, UCL often appears in the list of the world’s top performing schools.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have helped many students from the university with proofreading and editing.
 
-### Markdown
+### Why choose us?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Two expert editors check your work
 
+Our service includes both proofreading and editing.
+
+Worried about university policy? Rest assured, our proofreading service only corrects grammar, word order, spelling, paragraphing and punctuation. It will not rewrite the work, alter the writing style, or change the content. This means, the manner in which the ideas are expressed in the work will remain the same after the proofreading.
 ```markdown
-Syntax highlighted code block
+Improve your marks and save time
+#  We are known as the leading proofreading service based in London. We work with UK and international students to improve their essays, theses, dissertations and research projects.
+## Proofreading and editing are allowed by the Universities in UK and we are one of the preferred service providers when it comes to editing or proofreading.
+### Our rates are as follows:
 
-# Header 1
-## Header 2
-### Header 3
+£8 per 1000 words for proofreading/editing. 
 
-- Bulleted
-- List
+- We are the leading proofreading and document editing service in the UK.
+- We work on essays, dissertations, theses and research reports
 
-1. Numbered
-2. List
+1. We have an experienced team of proofreaders with extensive experience with all types of documents.
+2. Marks for a thesis, essay or dissertation depend on the quality of the writing, hence the value of our proofreading service.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rodrickcharles2/QMUL-Proofreading/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details see [Documents](https://).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Proofreading?  [contact us](@ Beverlybailey2@gmx.co.uk) and we’ll help you sort it out.
+
+### Some of our specialist services
+
+1. Express proofreading service
+2. 48 hour proofreading service
+3. 24 hour proofreading
+4. Business proofreading 
+5. PhD proofreading
+6. Thesis proofreading
+7. Dissertation proofreading
+8. Essay proofreading
+9. Academic proofreading
