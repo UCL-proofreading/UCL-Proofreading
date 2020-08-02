@@ -25,11 +25,11 @@ Improve your marks and save time
 1. We have an experienced team of proofreaders with extensive experience with all types of documents.
 2. Marks for a thesis, essay or dissertation depend on the quality of the writing, hence the value of our proofreading service.
 
-For more details see [Documents](https://).
+For more details see below.
 
 ### Support or Contact
 
-Having trouble with Proofreading?  [contact us](@ Beverlybailey2@gmx.co.uk) and we’ll help you sort it out.
+Having trouble with Proofreading? contact us @ beverlybailey2@gmx.co.uk and we’ll help you sort it out.
 
 ### Some of our specialist services
 
