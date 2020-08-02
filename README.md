@@ -1,2 +1,2 @@
-# QMUL-Proofreading
+# UCL-Proofreading
 Proofreading and copy-editing
